@@ -1,9 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/hwkls",
-        "destination": "ruu.html/hwkls.html"
-      }
-    ]
-  }
-  
