@@ -2,7 +2,7 @@
     "rewrites": [
       {
         "source": "/hwkls",
-        "destination": "/hwkls.html"
+        "destination": "ruu.html/hwkls.html"
       }
     ]
   }
