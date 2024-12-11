@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/hwkls",
+        "destination": "/hwkls.html"
+      }
+    ]
+  }
+  
